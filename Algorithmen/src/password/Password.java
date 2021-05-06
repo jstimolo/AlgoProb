@@ -1,6 +1,6 @@
-package password_assignment1;
+package password;
 
-public class Main {
+public class Password {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
