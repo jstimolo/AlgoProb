@@ -1,6 +1,6 @@
-package Primary_Testing_assignment9;
+package Primary_Testing;
 
-public class Main {
+public class PrimaryTesting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

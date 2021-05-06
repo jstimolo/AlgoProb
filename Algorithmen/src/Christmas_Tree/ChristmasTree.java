@@ -1,4 +1,4 @@
-package Christmas_Tree_assignment3;
+package Christmas_Tree;
 
 public class ChristmasTree {
 

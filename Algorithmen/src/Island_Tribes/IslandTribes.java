@@ -1,6 +1,6 @@
-package Island_Tribes_assignment6;
+package Island_Tribes;
 
-public class Main {
+public class IslandTribes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

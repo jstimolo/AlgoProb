@@ -1,6 +1,6 @@
-package Winter_Season_assignment7;
+package Winter_Season;
 
-public class Main {
+public class WinterSeason {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
-package Dinning_Table_assignment4;
+package Dinning_Table;
 
-public class Main {
+public class DinningTable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
