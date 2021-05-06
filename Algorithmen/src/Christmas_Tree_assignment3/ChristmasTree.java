@@ -1,4 +1,4 @@
-package Christmas_Tree_assignment3;
+package Count_The_Divisors_assignment2;
 
 public class Main {
 
